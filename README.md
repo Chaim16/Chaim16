@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi 👋，我是 Chaim16</h1>
-  <p align="center">🌟 热爱编程 | 🥗 享受生活 | 🧠 终身学习者</p> | 👨‍💻后端开发工程师
+  <p align="center">🌟 热爱编程 | 🥗 享受生活 | 🧠 终身学习者</p> |👨‍💻后端开发工程师
 </p>
 
 ## 🧰 技术栈
