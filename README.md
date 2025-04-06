@@ -1,6 +1,7 @@
-# Hi 👋，我是 Chaim16
-
-🌟 热爱编程 | 🔒 享受生活 | 🧠 终身学习者
+<p align="center">
+  <h1 align="center">Hi 👋，我是 Chaim16</h1>
+  <p align="center">🌟 热爱编程 | 🔒 享受生活 | 🧠 终身学习者</p>
+</p>
 
 ------
 
@@ -49,4 +50,3 @@
 ------
 
 *感谢你的访问！欢迎 Star 或 Fork 我的项目～ ⭐️*
-
