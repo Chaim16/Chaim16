@@ -31,7 +31,6 @@
 | 📍 [**ip_distribution**](https://github.com/Chaim16/ip_distribution) | 企业网络IP地址管理平台，管理和自动分配企业内部IP地址 |
 | 🎃 [**draft**](https://github.com/Chaim16/draft)              | 在线画稿交易平台，是一个专用于画稿作品的电商交易网站         |
 | 💻 [**my-trigger**](https://github.com/Chaim16/my-trigger)    | 一个分布式调度中间件，解决多机环境下的唯一调度问题，防止定时任务重复执行 |
-| 🔧 [**my-trigger-elamin**](https://github.com/Chaim16/my-trigger-elamin) | `my-trigger` 项目的后台管理系统                              |
 | 📦 [**ib_system**](https://github.com/Chaim16/ib_system)      | IB 智慧公交管理系统，使用 Java 窗体和 MySQL 开发 —— 大二下期末实训项目 |
 | 🌐 [**HotelManager**](https://github.com/Chaim16/HotelManager) | 基于 Spring Boot 开发的酒店管理系统                          |
 | 🥡 [**CurseManager**](https://github.com/Chaim16/CurseManager) | 用 Java 实现的图形化课程管理系统，分别使用 MySQL 和 SQL 完成数据处理 |
